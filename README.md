@@ -1,3 +1,1 @@
-<audio autoplay>
-  <source src="https://github.com/fqur/fqur/raw/main/jusscoreit.mp3" type="audio/mpeg">
-</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fosamason%2Fjust-score-it-prod-gyro-lil-o&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
