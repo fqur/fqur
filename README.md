@@ -12,4 +12,3 @@
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; right: 2vh; bottom: 0; background-repeat: no-repeat; height: 249px; object-fit: cover; width: 213px; background: url('https://raw.githubusercontent.com/jewdev/jewdev/master/omeradam2.gif'); background-size: cover]{x0000}$}
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; right: 2vh; bottom: 0; background-repeat: no-repeat; height: 549px; object-fit: cover; width: 213px; background: url('https://example.com/'); background-size: cover]{x0000}$}
 ```
-can you make it open the website example.com in a iframe
