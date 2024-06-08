@@ -1,1 +1,1 @@
-<img align="left" height="99500" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="99500" src="https://el.phncdn.com/gif/35049162.gif"/>
