@@ -2,7 +2,7 @@
 <h3>I'm a software/reverse engineer.</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=whatmanhere&label=Profile%20views&color=0e75b6&style=flat" alt="dynwsg" />
+  <img src="https://komarev.com/ghpvc/?username=fqur&label=Profile%20views&color=0e75b6&style=flat" alt="dynwsg" />
 </p>
 
 - 🎉 I am currently working on [Solaris](https://discord.gg/getsolaris)
@@ -48,8 +48,8 @@
 
 <h3>GitHub Stats:</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whatmanhere&layout=compact&theme=dark&hide=Jupyter%20Notebook,TypeScript,HTML,Shell,Dockerfile,Vue&langs_count=7" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fqur&layout=compact&theme=dark&hide=Jupyter%20Notebook,TypeScript,HTML,Shell,Dockerfile,Vue&langs_count=7" alt="Top Languages" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=whatmanhere&show_icons=true&locale=en&theme=dark&cache_buster=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fqur&show_icons=true&locale=en&theme=dark&cache_buster=1" alt="GitHub Stats" />
 </p>
