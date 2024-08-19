@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=fqur&label=Profile%20views&color=0e75b6&style=flat" alt="fqur" />
 </p>
 
-- 🎉 I am currently working on [X07](ce4gqbAwkD), Intellect
+- 🎉 I am currently working on [MINT](ce4gqbAwkD), Intellect
 
 <h3>Connect with me:</h3>
 <p>
