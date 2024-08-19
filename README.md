@@ -2,11 +2,11 @@
 <h3>I'm a software/reverse engineer.</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=fqur&label=Profile%20views&color=0e75b6&style=flat" alt="dynwsg" />
+  <img src="https://komarev.com/ghpvc/?username=fqur&label=Profile%20views&color=0e75b6&style=flat" alt="fqur" />
 </p>
 
-- 🎉 I am currently working on [Solaris](https://discord.gg/getsolaris)
-- 📫 How to reach me: **whatman@dumps.lol**
+- 🎉 I am currently working on [X07](ce4gqbAwkD), Intellect
+- 📫 How to reach me: **@hypur.dev on Discord**
 
 <h3>Connect with me:</h3>
 <p>
