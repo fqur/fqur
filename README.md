@@ -1,4 +1,4 @@
-<h1>Hi :3 , I'm Hypurrvisor</h1>
+<h1>Hi , I'm Hypurrvisor :3</h1>
 <h3>I'm a software/reverse engineer.</h3>
 
 <p>
@@ -6,11 +6,10 @@
 </p>
 
 - 🎉 I am currently working on [X07](ce4gqbAwkD), Intellect
-- 📫 How to reach me: **@hypur.dev on Discord**
 
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://discord.com/users/1108451044540821591" target="_blank">
+  <a href="https://discord.com/users/1258049582340902912" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" height="40" width="40" />
   </a>
 </p>
